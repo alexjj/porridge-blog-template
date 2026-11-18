@@ -21,8 +21,10 @@ GitHub Pages. There's nothing to host or install.
    enter this repository (`your-name/your-repo`) and the token. It loads the
    example blog that's in this repository.
 4. **Set up your blog.** In the editor, open **⋯ → Blog settings** and fill in
-   the title, your name, your timezone, and the **site address**: your Pages
-   address, usually `https://your-name.github.io/your-repo/`.
+   the title, your name and your timezone. Leave the site address empty: the
+   site is published at this repository's GitHub Pages address
+   (`https://your-name.github.io/your-repo/`). Fill it in only if you use your
+   own domain.
 5. **Publish.** Press **Publish**. After a minute or so the status says
    *Published* and links to your site.
 

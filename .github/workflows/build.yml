@@ -22,11 +22,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # The repository's GitHub Pages address, used if Blog settings don't set one.
+      - id: pages
+        uses: actions/configure-pages@v5
       # Always the latest porridge from main: changes to the site's look and
       # features arrive on the next publish. Pin to a commit sha to freeze it.
       - uses: alexjj/porridge@main
         with:
           output: _site
+          fallback-base-url: ${{ steps.pages.outputs.base_url }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

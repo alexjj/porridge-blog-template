@@ -4,7 +4,6 @@
     <title>My Daily</title>
     <description>Notes, mostly daily.</description>
     <ownerName>Your Name</ownerName>
-    <porridge:baseUrl>https://YOUR-USERNAME.github.io/YOUR-REPO/</porridge:baseUrl>
     <porridge:timezone>UTC</porridge:timezone>
     <porridge:homeDays>10</porridge:homeDays>
     <porridge:rssItems>25</porridge:rssItems>
