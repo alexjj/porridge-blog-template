@@ -15,17 +15,13 @@ images/            uploaded images
 
 1. Create a repo from this template.
 2. In **Settings → Pages**, set **Source** to **GitHub Actions**.
-3. Edit `blog.opml`: set `title`, `ownerName`, `porridge:timezone`, and
-   `porridge:baseUrl` to your Pages address
-   (`https://YOUR-USERNAME.github.io/YOUR-REPO/`).
-4. Push. The **Build blog** workflow publishes the site.
 
 After that, write with the porridge editor:
 
-5. Create a [fine-grained token](https://github.com/settings/personal-access-tokens/new)
+3. Create a [fine-grained token](https://github.com/settings/personal-access-tokens/new)
    for just this repository, with **Contents** and **Actions** set to read
    and write.
-6. Open the editor, choose **Connect GitHub**, and enter this repository and
+4. Open the editor, choose **Connect GitHub**, and enter this repository and
    the token.
 
 **Save** commits without rebuilding the site; **Publish** commits and
