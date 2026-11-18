@@ -7,7 +7,7 @@
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="18th November" type="calendarDay" date="2026-11-18">
         <outline text="Welcome to porridge" created="Wed, 18 Nov 2026 12:00:00 GMT">
-          <outline text="This is a starter blog. Everything in it is an example: read it, try things, then edit or delete it and write your own."/>
+          <outline text="This is a starter blog. Everything in it is an example: read it, try things, then edit or delete it and write your own. [See what it looks like published](https://alexjj.github.io/porridge-blog-template/)."/>
           <outline text="![A bowl of porridge with a spoonful of cinnamon](/images/2026/11/porridge-bowl.webp)"/>
           <outline text="Each day is a heading, and each line under a day is a post. A line with lines indented under it, like this one, becomes a post with a **title**; the lines under it are its paragraphs."/>
           <outline text="Press **New entry** to start today's post. It goes at the top, under today's date, and a new month or year is added for you when it's needed."/>
