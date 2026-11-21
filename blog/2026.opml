@@ -26,6 +26,10 @@
           </outline>
           <outline text="A little HTML works too, for the odd &lt;mark&gt;highlight&lt;/mark&gt;."/>
           <outline text="To show a whole post as bullets instead of paragraphs, choose **Children as bullets** in its title's bullet menu."/>
+          <outline text="Start a line with &gt; to make it a quotation, and put its source on a line under it:"/>
+          <outline text="&gt; Start where you are. Use what you have. Do what you can.">
+            <outline text="Arthur Ashe"/>
+          </outline>
         </outline>
         <outline text="To make a link, select some words and paste a web address over them, or press Ctrl-K (⌘-K on a Mac). [Like this](https://github.com/alexjj/porridge)." created="Mon, 16 Nov 2026 08:10:00 GMT"/>
       </outline>
