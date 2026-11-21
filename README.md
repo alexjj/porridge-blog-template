@@ -17,7 +17,7 @@ GitHub Pages. There's nothing to host or install.
    Copy the token. You'll paste it into the editor once; it's kept only in
    that browser.
 3. **Connect the editor.** Open the editor at
-   **<https://alexjj.github.io/porridge/>**, choose **Connect GitHub**, and
+   **<https://porridge.alexjj.com/>**, choose **Connect GitHub**, and
    enter this repository (`your-name/your-repo`) and the token. It loads the
    example blog that's in this repository.
 4. **Set up your blog.** In the editor, open **⋯ → Blog settings** and fill in
