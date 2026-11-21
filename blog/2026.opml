@@ -17,7 +17,7 @@
       <outline text="16th November" type="calendarDay" date="2026-11-16">
         <outline text="Formatting" created="Mon, 16 Nov 2026 19:45:00 GMT">
           <outline text="Write in Markdown: **bold**, *italic*, `inline code`, and [links](https://commonmark.org/help/). The help panel on the right has the details."/>
-          <outline text="Indent lines under a paragraph to make a list:">
+          <outline text="Indent lines under a paragraph, then choose **Children as bullets** in its bullet menu, to make a list:" list="bullets">
             <outline text="Oats"/>
             <outline text="Milk, or water if you're *brave*">
               <outline text="Lists nest as deep as the outline does"/>
