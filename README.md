@@ -1,7 +1,7 @@
-# My porridge blog
+# My Porridge blog
 
-This repository is a [porridge](https://github.com/alexjj/porridge) blog: an
-outliner for writing a daily blog. You write in the porridge editor; your posts
+This repository is a [Porridge](https://github.com/alexjj/porridge) blog: an
+outliner for writing a daily blog. You write in the Porridge editor; your posts
 are kept here as plain files, and GitHub Actions publishes them as a website on
 GitHub Pages. There's nothing to host or install.
 
@@ -28,7 +28,7 @@ GitHub Pages. There's nothing to host or install.
 5. **Publish.** Press **Publish**. After a minute or so the status says
    *Published* and links to your site.
 
-The example posts show what porridge can do. Read them, then edit or delete
+The example posts show what Porridge can do. Read them, then edit or delete
 them and start writing with **New entry**.
 
 ## Day to day
@@ -51,4 +51,4 @@ images/            photos added in the editor
 
 You never need to edit these by hand, but they're readable if you want to.
 The format is described in
-[porridge's format.md](https://github.com/alexjj/porridge/blob/main/docs/format.md).
+[Porridge's format.md](https://github.com/alexjj/porridge/blob/main/docs/format.md).
